@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        google() // Repository for Android Gradle plugin and other Android libraries
+        mavenCentral() // Central repository for general dependencies
+        gradlePluginPortal() // Repository for Gradle plugins
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+// Root project name
+rootProject.name = "Mapper"
+
+// Include the app module in the project
+include ':app'
