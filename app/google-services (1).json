@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295656896410",
+    "project_id": "mapper-b56b0",
+    "storage_bucket": "mapper-b56b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295656896410:android:fcc69c8d08e0b5e4e8ac23",
+        "android_client_info": {
+          "package_name": "com.example.mapper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGT_Pz0t3dtrAmea0a6tnQDggxg4d-0eY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
